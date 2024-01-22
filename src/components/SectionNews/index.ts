@@ -1,0 +1,1 @@
+export { SectionNews } from "./ui/SectionNews";

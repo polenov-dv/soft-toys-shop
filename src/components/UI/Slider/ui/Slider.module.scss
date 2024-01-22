@@ -1,0 +1,29 @@
+.content {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.nav {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 0 15px;
+	padding: 15px 0;
+	border-bottom: 1px solid #e9e6e6;
+}
+
+.nav_item {
+	padding: 7px;
+	border-radius: 50%;
+	background-color: #d7d5d5;
+	cursor: pointer;
+
+	@media(max-width: 480px) {
+		padding: 5px;
+	}
+}
+
+.active {
+	background-color: #e0a3a3;
+}

@@ -1,0 +1,126 @@
+.content {
+	display: flex;
+	flex-direction: column;
+	border: 1px solid #e9e6e6;
+	border-radius: 5px;
+	height: 475px;
+}
+
+.link_ware {
+	display: flex;
+	flex-direction: column;
+}
+
+.ware_img_wrapper {
+	display: flex;
+	justify-content: center;
+}
+
+.ware_img {
+	width: 260px;
+	height: 250px;
+}
+
+.ware_description {
+	width: 180px;
+	align-self: center;
+	font-size: 16px;
+	padding-bottom: 20px;
+	color: #9b9b9b;
+}
+
+.ware_description>b {
+	color: black;
+}
+
+.ware_size {
+	font-size: 16px;
+	padding-bottom: 20px;
+}
+
+.size_text {
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.size_wrapper {
+	display: flex;
+	justify-content: space-around;
+	gap: 0 5px;
+	font-size: 12px;
+	background-color: #e9eaea;
+	border-radius: 4px;
+	padding: 5px 0;
+}
+
+.size_item {
+	padding: 5px 15px;
+	cursor: pointer;
+}
+
+.size_item:hover,
+.active_size {
+	background-color: #fff;
+	border-radius: 5px;
+}
+
+
+.package {
+	display: flex;
+	justify-content: space-between;
+	padding-bottom: 10px;
+}
+
+.price {
+	padding-left: 10px;
+	font-family: 'CaviarDreamsBold';
+}
+
+.price_icon {
+	font-size: 21px;
+}
+
+.add {
+	padding-right: 10px;
+}
+
+.add_btn {
+	padding: 5px 20px;
+	border-radius: 8px;
+
+	&:hover {
+		background-color: #fe5f1e;
+		color: #ffffff;
+	}
+}
+
+.rating {
+	display: flex;
+	justify-content: space-between;
+	font-size: 12px;
+	padding: 10px;
+	color: #9b9b9b;
+}
+
+.rating_img {
+	width: 18px;
+	height: 16px;
+}
+
+.rating_star {
+	display: flex;
+	align-items: center;
+}
+
+.rating_circle {
+	height: 4px;
+	padding: 3px;
+	margin: 0 2px;
+	border-radius: 50%;
+	background-color: #e9eaea;
+}
+
+.star_number {
+	padding-left: 2px;
+	color: #000;
+}

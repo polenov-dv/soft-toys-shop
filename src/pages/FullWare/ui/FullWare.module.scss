@@ -1,0 +1,180 @@
+.content {
+	display: flex;
+	flex-direction: column;
+	padding: 0 100px;
+	padding-top: 30px;
+
+	@media(max-width: 768px) {
+		padding: 0;
+	}
+}
+
+.link_ware {
+	display: flex;
+	flex-direction: column;
+}
+
+.ware_img_wrapper {
+	display: flex;
+	justify-content: center;
+	padding-bottom: 10px;
+}
+
+.ware_img {
+	width: 400px;
+	height: 390px;
+
+	@media(max-width: 768px) {
+		width: 280px;
+		height: 270px;
+	}
+}
+
+.ware_description {
+	align-self: center;
+	font-size: 28px;
+	padding-bottom: 30px;
+	color: #9b9b9b;
+	text-align: center;
+
+	@media(max-width: 768px) {
+		font-size: 24px;
+		padding-bottom: 15px;
+	}
+
+	@media(max-width: 500px) {
+		font-size: 22px;
+	}
+}
+
+.ware_description>b {
+	color: black;
+}
+
+.ware_size {
+	padding-bottom: 30px;
+
+	@media(max-width: 768px) {
+		padding-bottom: 20px;
+	}
+}
+
+.size_text {
+	font-size: 24px;
+	text-align: center;
+	padding-bottom: 10px;
+
+	@media(max-width: 768px) {
+		font-size: 20px;
+	}
+}
+
+.size_wrapper {
+	display: flex;
+	justify-content: space-around;
+	gap: 0 5px;
+	font-size: 12px;
+	background-color: #e9eaea;
+	border-radius: 4px;
+	padding: 5px 0;
+}
+
+.size_item {
+	padding: 5px 15px;
+	cursor: pointer;
+	font-size: 18px;
+
+	@media(max-width: 768px) {
+		font-size: 16px;
+	}
+}
+
+.size_item:hover,
+.active_size {
+	background-color: #fff;
+	border-radius: 5px;
+}
+
+.package {
+	display: flex;
+	justify-content: space-between;
+	padding-bottom: 10px;
+	align-items: center;
+}
+
+.price {
+	font-size: 24px;
+	padding-left: 10px;
+	font-family: 'CaviarDreamsBold';
+
+	@media(max-width: 768px) {
+		font-size: 20px;
+	}
+}
+
+.price_icon {
+	font-size: 28px;
+
+	@media(max-width: 768px) {
+		font-size: 24px;
+	}
+}
+
+.add {
+	padding-right: 10px;
+}
+
+.add_btn {
+	padding: 10px 40px;
+	border-radius: 8px;
+	font-size: 24px;
+
+	&:hover {
+		background-color: #fe5f1e;
+		color: #ffffff;
+	}
+
+	@media(max-width: 768px) {
+		padding: 7px 20px;
+	}
+}
+
+.rating {
+	display: flex;
+	justify-content: space-between;
+	font-size: 18px;
+	padding: 10px;
+	padding-bottom: 30px;
+	color: #9b9b9b;
+
+	@media(max-width: 768px) {
+		font-size: 16px;
+	}
+
+	@media(max-width: 500px) {
+		font-size: 14px;
+	}
+}
+
+.rating_img {
+	width: 18px;
+	height: 16px;
+}
+
+.rating_star {
+	display: flex;
+	align-items: center;
+}
+
+.rating_circle {
+	height: 4px;
+	padding: 3px;
+	margin: 0 2px;
+	border-radius: 50%;
+	background-color: #e9eaea;
+}
+
+.star_number {
+	padding-left: 2px;
+	color: #000;
+}

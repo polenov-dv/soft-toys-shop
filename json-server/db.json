@@ -1,0 +1,6261 @@
+{
+  "goods": [
+    {
+      "id": 1,
+      "likes": 250,
+      "stars": 3,
+      "filter": "Медведь медвежонок",
+      "catalog": "Медведь",
+      "name": "Brown Bear",
+      "description": "мягкая игрушка медведя",
+      "image_url": "assets/images/bear/bear-1.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "user": "root",
+          "text": "Hello"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1800,
+      "size": 80,
+      "count": 0
+    },
+    {
+      "id": 2,
+      "likes": 324,
+      "stars": 4,
+      "filter": "Медведь медвежонок",
+      "catalog": "Медведь",
+      "name": "White Bear",
+      "description": "мягкая игрушка медведя",
+      "image_url": "assets/images/bear/bear-2.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Beast bear",
+          "user": "Mery"
+        },
+        {
+          "user": "root",
+          "text": "Hello"
+        }
+      ],
+      "prices": [
+        {
+          "size": 30,
+          "value": 1000
+        },
+        {
+          "size": 50,
+          "value": 1300
+        },
+        {
+          "size": 70,
+          "value": 1500
+        }
+      ],
+      "price": 1000,
+      "size": 30,
+      "count": 0
+    },
+    {
+      "id": 3,
+      "likes": 230,
+      "stars": 2,
+      "filter": "Медведь медвежонок",
+      "catalog": "Медведь",
+      "name": "Grey Bear",
+      "description": "мягкая игрушка медведя",
+      "image_url": "assets/images/bear/bear-3.webp",
+      "comments": [
+        {
+          "text": "Strange bear",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 80,
+          "value": 1800
+        },
+        {
+          "size": 120,
+          "value": 2200
+        },
+        {
+          "size": 140,
+          "value": 2500
+        }
+      ],
+      "price": 2200,
+      "size": 120,
+      "count": 0
+    },
+    {
+      "id": 4,
+      "likes": 645,
+      "stars": 5,
+      "filter": "Медведь медвежонок",
+      "catalog": "Медведь",
+      "name": "Smile Bear",
+      "description": "мягкая игрушка медведя",
+      "image_url": "assets/images/bear/bear-4.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Beast bear",
+          "user": "Mery"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "user": "root",
+          "text": "Hellow"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1800,
+      "size": 80,
+      "count": 0
+    },
+    {
+      "id": 5,
+      "likes": 324,
+      "stars": 3,
+      "catalog": "Медведь",
+      "filter": "Медведь медвежонок",
+      "name": "Strange Bear",
+      "description": "мягкая игрушка медведя",
+      "image_url": "assets/images/bear/bear-5.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 35,
+          "value": 800
+        },
+        {
+          "size": 60,
+          "value": 1200
+        },
+        {
+          "size": 100,
+          "value": 2500
+        }
+      ],
+      "price": 800,
+      "size": 35,
+      "count": 0
+    },
+    {
+      "id": 6,
+      "likes": 250,
+      "stars": 4,
+      "filter": "Медведь медвежонок",
+      "catalog": "Медведь",
+      "name": "Brown Bear",
+      "description": "мягкая игрушка медведя",
+      "image_url": "assets/images/bear/bear-6.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 50,
+          "value": 1200
+        },
+        {
+          "size": 70,
+          "value": 1600
+        },
+        {
+          "size": 90,
+          "value": 1800
+        }
+      ],
+      "price": 1800,
+      "size": 90,
+      "count": 0
+    },
+    {
+      "id": 7,
+      "likes": 250,
+      "stars": 4,
+      "filter": "Медведь медвежонок",
+      "catalog": "Медведь",
+      "name": "Brown Bear",
+      "description": "мягкая игрушка медведя",
+      "image_url": "assets/images/bear/bear-7.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1800,
+      "size": 80,
+      "count": 0
+    },
+    {
+      "id": 8,
+      "likes": 250,
+      "stars": 4,
+      "filter": "Медведь медвежонок",
+      "catalog": "Медведь",
+      "name": "Brown Bear",
+      "description": "мягкая игрушка медведя",
+      "image_url": "assets/images/bear/bear-8.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "user": "root",
+          "text": "Hello"
+        },
+        {
+          "user": "root",
+          "text": "Hi"
+        }
+      ],
+      "prices": [
+        {
+          "size": 20,
+          "value": 400
+        },
+        {
+          "size": 40,
+          "value": 800
+        },
+        {
+          "size": 60,
+          "value": 1200
+        }
+      ],
+      "price": 1200,
+      "size": 60,
+      "count": 0
+    },
+    {
+      "id": 9,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Медведь",
+      "filter": "Медведь медвежонок",
+      "name": "Brown Bear",
+      "description": "мягкая игрушка медведя",
+      "image_url": "assets/images/bear/bear-9.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 45,
+          "value": 1200
+        },
+        {
+          "size": 55,
+          "value": 1400
+        },
+        {
+          "size": 75,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 45,
+      "count": 0
+    },
+    {
+      "id": 10,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Медведь",
+      "filter": "Медведь медвежонок",
+      "name": "Brown Bear",
+      "description": "мягкая игрушка медведя",
+      "image_url": "assets/images/bear/bear-10.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 11,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Медведь",
+      "filter": "Медведь медвежонок",
+      "name": "Brown Bear",
+      "description": "мягкая игрушка медведя",
+      "image_url": "assets/images/bear/bear-11.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 70,
+          "value": 1800
+        },
+        {
+          "size": 80,
+          "value": 2000
+        },
+        {
+          "size": 120,
+          "value": 3000
+        }
+      ],
+      "price": 1800,
+      "size": 70,
+      "count": 0
+    },
+    {
+      "id": 12,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Медведь",
+      "filter": "Медведь медвежонок",
+      "name": "Brown Bear",
+      "description": "мягкая игрушка медведя",
+      "image_url": "assets/images/bear/bear-12.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 13,
+      "likes": 250,
+      "stars": 4,
+      "filter": "Медведь медвежонок",
+      "catalog": "Медведь",
+      "name": "Brown Bear",
+      "description": "мягкая игрушка медведя",
+      "image_url": "assets/images/bear/bear-13.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 35,
+          "value": 1000
+        },
+        {
+          "size": 70,
+          "value": 2000
+        },
+        {
+          "size": 120,
+          "value": 3000
+        }
+      ],
+      "price": 3000,
+      "size": 120,
+      "count": 0
+    },
+    {
+      "id": 14,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Медведь",
+      "filter": "Медведь медвежонок",
+      "name": "Brown Bear",
+      "description": "мягкая игрушка медведя",
+      "image_url": "assets/images/bear/bear-14.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1000
+        },
+        {
+          "size": 60,
+          "value": 1200
+        },
+        {
+          "size": 80,
+          "value": 1400
+        }
+      ],
+      "price": 1000,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 15,
+      "likes": 250,
+      "stars": 4,
+      "filter": "Медведь медвежонок",
+      "catalog": "Медведь",
+      "name": "Brown Bear",
+      "description": "мягкая игрушка медведя",
+      "image_url": "assets/images/bear/bear-15.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 55,
+          "value": 1250
+        },
+        {
+          "size": 65,
+          "value": 1350
+        },
+        {
+          "size": 75,
+          "value": 1450
+        }
+      ],
+      "price": 1250,
+      "size": 55,
+      "count": 0
+    },
+    {
+      "id": 16,
+      "likes": 210,
+      "stars": 4,
+      "catalog": "Акула",
+      "filter": "Акула",
+      "name": "Smile Shark",
+      "description": "мягкая игрушка акулы",
+      "image_url": "assets/images/shark/shark-1.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 25,
+          "value": 1000
+        },
+        {
+          "size": 45,
+          "value": 1150
+        },
+        {
+          "size": 55,
+          "value": 1250
+        }
+      ],
+      "price": 1000,
+      "size": 25,
+      "count": 0
+    },
+    {
+      "id": 17,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Медведь",
+      "filter": "Медведь медвежонок",
+      "name": "Brown Bear",
+      "description": "мягкая игрушка медведя",
+      "image_url": "assets/images/bear/bear-15.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 55,
+          "value": 1250
+        },
+        {
+          "size": 65,
+          "value": 1350
+        },
+        {
+          "size": 75,
+          "value": 1450
+        }
+      ],
+      "price": 1250,
+      "size": 55,
+      "count": 0
+    },
+    {
+      "id": 18,
+      "likes": 138,
+      "stars": 3,
+      "catalog": "Акула",
+      "filter": "Акула",
+      "name": "Grey Shark",
+      "description": "мягкая игрушка акулы",
+      "image_url": "assets/images/shark/shark-2.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "I love him!",
+          "user": "Jony"
+        },
+        {
+          "text": "I love him!",
+          "user": "Pit"
+        }
+      ],
+      "prices": [
+        {
+          "size": 20,
+          "value": 300
+        },
+        {
+          "size": 30,
+          "value": 400
+        },
+        {
+          "size": 40,
+          "value": 500
+        }
+      ],
+      "price": 300,
+      "size": 20,
+      "count": 0
+    },
+    {
+      "id": 19,
+      "likes": 115,
+      "stars": 3,
+      "catalog": "Акула",
+      "filter": "Акула",
+      "name": "Blue Shark",
+      "description": "мягкая игрушка акулы",
+      "image_url": "assets/images/shark/shark-3.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "I love him!",
+          "user": "Jony"
+        }
+      ],
+      "prices": [
+        {
+          "size": 20,
+          "value": 200
+        },
+        {
+          "size": 30,
+          "value": 300
+        },
+        {
+          "size": 40,
+          "value": 400
+        }
+      ],
+      "price": 200,
+      "size": 20,
+      "count": 0
+    },
+    {
+      "id": 20,
+      "likes": 262,
+      "stars": 4,
+      "filter": "Акула",
+      "catalog": "Акула",
+      "name": "Shark-Toothed",
+      "description": "мягкая игрушка акулы",
+      "image_url": "assets/images/shark/shark-4.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "I love him!",
+          "user": "Jony"
+        }
+      ],
+      "prices": [
+        {
+          "size": 50,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1300
+        },
+        {
+          "size": 70,
+          "value": 1400
+        }
+      ],
+      "price": 1400,
+      "size": 70,
+      "count": 0
+    },
+    {
+      "id": 21,
+      "likes": 115,
+      "stars": 3,
+      "catalog": "Акула",
+      "filter": "Акула",
+      "name": "Blue Shark",
+      "description": "мягкая игрушка акулы",
+      "image_url": "assets/images/shark/shark-3.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "I love him!",
+          "user": "Jony"
+        }
+      ],
+      "prices": [
+        {
+          "size": 20,
+          "value": 200
+        },
+        {
+          "size": 30,
+          "value": 300
+        },
+        {
+          "size": 40,
+          "value": 400
+        }
+      ],
+      "price": 200,
+      "size": 20,
+      "count": 0
+    },
+    {
+      "id": 22,
+      "likes": 340,
+      "stars": 4,
+      "catalog": "Акула",
+      "filter": "Акула",
+      "name": "Wicked Shark",
+      "description": "мягкая игрушка акулы",
+      "image_url": "assets/images/shark/shark-5.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "I love him!",
+          "user": "Jony"
+        },
+        {
+          "text": "I love him!",
+          "user": "JonyPony"
+        },
+        {
+          "text": "I love him!",
+          "user": "Bla"
+        }
+      ],
+      "prices": [
+        {
+          "size": 65,
+          "value": 1230
+        },
+        {
+          "size": 75,
+          "value": 1540
+        },
+        {
+          "size": 85,
+          "value": 1650
+        }
+      ],
+      "price": 1230,
+      "size": 65,
+      "count": 0
+    },
+    {
+      "id": 23,
+      "likes": 520,
+      "stars": 5,
+      "catalog": "Акула",
+      "filter": "Акула",
+      "name": "Happy Shark",
+      "description": "мягкая игрушка акулы",
+      "image_url": "assets/images/shark/shark-6.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "I love him!",
+          "user": "Jony"
+        },
+        {
+          "text": "I love him!",
+          "user": "JonyPony"
+        },
+        {
+          "text": "I love him!",
+          "user": "Bla"
+        }
+      ],
+      "prices": [
+        {
+          "size": 65,
+          "value": 1500
+        },
+        {
+          "size": 75,
+          "value": 2000
+        },
+        {
+          "size": 85,
+          "value": 2500
+        }
+      ],
+      "price": 1500,
+      "size": 65,
+      "count": 0
+    },
+    {
+      "id": 24,
+      "likes": 640,
+      "stars": 5,
+      "catalog": "Акула",
+      "filter": "Акула",
+      "name": "Big-Eyed Shark",
+      "description": "мягкая игрушка акулы",
+      "image_url": "assets/images/shark/shark-7.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 80,
+          "value": 3000
+        },
+        {
+          "size": 90,
+          "value": 4000
+        },
+        {
+          "size": 110,
+          "value": 5500
+        }
+      ],
+      "price": 3000,
+      "size": 80,
+      "count": 0
+    },
+    {
+      "id": 25,
+      "likes": 520,
+      "stars": 5,
+      "catalog": "Акула",
+      "filter": "Акула",
+      "name": "Happy Shark",
+      "description": "мягкая игрушка акулы",
+      "image_url": "assets/images/shark/shark-6.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "I love him!",
+          "user": "Jony"
+        },
+        {
+          "text": "I love him!",
+          "user": "JonyPony"
+        },
+        {
+          "text": "I love him!",
+          "user": "Bla"
+        }
+      ],
+      "prices": [
+        {
+          "size": 65,
+          "value": 1500
+        },
+        {
+          "size": 75,
+          "value": 2000
+        },
+        {
+          "size": 85,
+          "value": 2500
+        }
+      ],
+      "price": 1500,
+      "size": 65,
+      "count": 0
+    },
+    {
+      "id": 26,
+      "likes": 355,
+      "stars": 4,
+      "catalog": "Акула",
+      "filter": "Акула",
+      "name": "Music Shark",
+      "description": "мягкая игрушка акулы",
+      "image_url": "assets/images/shark/shark-8.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "I love him!",
+          "user": "Biggu"
+        }
+      ],
+      "prices": [
+        {
+          "size": 50,
+          "value": 1000
+        },
+        {
+          "size": 60,
+          "value": 2000
+        },
+        {
+          "size": 70,
+          "value": 3000
+        }
+      ],
+      "price": 1000,
+      "size": 50,
+      "count": 0
+    },
+    {
+      "id": 27,
+      "likes": 777,
+      "stars": 5,
+      "catalog": "Акула",
+      "filter": "Акула",
+      "name": "Terrible Shark",
+      "description": "мягкая игрушка акулы",
+      "image_url": "assets/images/shark/shark-9.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "I love him!",
+          "user": "Biggu"
+        }
+      ],
+      "prices": [
+        {
+          "size": 50,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 2300
+        },
+        {
+          "size": 70,
+          "value": 3500
+        }
+      ],
+      "price": 1200,
+      "size": 50,
+      "count": 0
+    },
+    {
+      "id": 28,
+      "likes": 444,
+      "stars": 5,
+      "catalog": "Акула",
+      "filter": "Акула",
+      "name": "Boots Shark",
+      "description": "мягкая игрушка акулы",
+      "image_url": "assets/images/shark/shark-10.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "I love him!",
+          "user": "Biggu"
+        }
+      ],
+      "prices": [
+        {
+          "size": 44,
+          "value": 800
+        },
+        {
+          "size": 55,
+          "value": 900
+        },
+        {
+          "size": 66,
+          "value": 1000
+        }
+      ],
+      "price": 800,
+      "size": 44,
+      "count": 0
+    },
+    {
+      "id": 29,
+      "likes": 80,
+      "stars": 3,
+      "catalog": "Акула",
+      "filter": "Акула",
+      "name": "Sia Shark",
+      "description": "мягкая игрушка акулы",
+      "image_url": "assets/images/shark/shark-11.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "I love him!",
+          "user": "Biggu"
+        }
+      ],
+      "prices": [
+        {
+          "size": 38,
+          "value": 800
+        },
+        {
+          "size": 48,
+          "value": 900
+        },
+        {
+          "size": 58,
+          "value": 1000
+        }
+      ],
+      "price": 800,
+      "size": 38,
+      "count": 0
+    },
+    {
+      "id": 30,
+      "likes": 1200,
+      "stars": 5,
+      "catalog": "Акула",
+      "filter": "Акула",
+      "name": "Pink Shark",
+      "description": "мягкая игрушка акулы",
+      "image_url": "assets/images/shark/shark-12.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "I love him!",
+          "user": "Biggu"
+        }
+      ],
+      "prices": [
+        {
+          "size": 100,
+          "value": 7000
+        },
+        {
+          "size": 120,
+          "value": 8000
+        },
+        {
+          "size": 150,
+          "value": 10000
+        }
+      ],
+      "price": 7000,
+      "size": 100,
+      "count": 0
+    },
+    {
+      "id": 31,
+      "likes": 250,
+      "stars": 3,
+      "catalog": "Кролик",
+      "filter": "Кролик зайчик заяц зайченок",
+      "name": "Friendly Rabbit",
+      "description": "мягкая игрушка кролика",
+      "image_url": "assets/images/bunny/bunny-1.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 32,
+      "likes": 324,
+      "stars": 4,
+      "catalog": "Кролик",
+      "filter": "Кролик зайчик заяц зайченок",
+      "name": "Sad Rabbit",
+      "description": "мягкая игрушка кролика",
+      "image_url": "assets/images/bunny/bunny-2.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Beast bunny",
+          "user": "Mery"
+        }
+      ],
+      "prices": [
+        {
+          "size": 30,
+          "value": 1000
+        },
+        {
+          "size": 50,
+          "value": 1300
+        },
+        {
+          "size": 70,
+          "value": 1500
+        }
+      ],
+      "price": 1000,
+      "size": 30,
+      "count": 0
+    },
+    {
+      "id": 33,
+      "likes": 230,
+      "stars": 2,
+      "catalog": "Кролик",
+      "filter": "Кролик зайчик заяц зайченок",
+      "name": "Interesting Rabbit",
+      "description": "мягкая игрушка кролика",
+      "image_url": "assets/images/bunny/bunny-3.webp",
+      "comments": [
+        {
+          "text": "Strange bunny",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 80,
+          "value": 1800
+        },
+        {
+          "size": 120,
+          "value": 2200
+        },
+        {
+          "size": 140,
+          "value": 2500
+        }
+      ],
+      "price": 1800,
+      "size": 80,
+      "count": 0
+    },
+    {
+      "id": 34,
+      "likes": 645,
+      "stars": 5,
+      "catalog": "Кролик",
+      "filter": "Кролик зайчик заяц зайченок",
+      "name": "Smile Rabbit",
+      "description": "мягкая игрушка кролика",
+      "image_url": "assets/images/bunny/bunny-4.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Beast bunny",
+          "user": "Mery"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 35,
+      "likes": 324,
+      "stars": 3,
+      "catalog": "Кролик",
+      "filter": "Кролик зайчик заяц зайченок",
+      "name": "Strange Rabbit",
+      "description": "мягкая игрушка кролика",
+      "image_url": "assets/images/bunny/bunny-5.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 35,
+          "value": 800
+        },
+        {
+          "size": 60,
+          "value": 1200
+        },
+        {
+          "size": 100,
+          "value": 2500
+        }
+      ],
+      "price": 800,
+      "size": 35,
+      "count": 0
+    },
+    {
+      "id": 36,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Кролик",
+      "filter": "Кролик зайчик заяц зайченок",
+      "name": "Mysterious Rabbit",
+      "description": "мягкая игрушка кролика",
+      "image_url": "assets/images/bunny/bunny-6.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 50,
+          "value": 1200
+        },
+        {
+          "size": 70,
+          "value": 1600
+        },
+        {
+          "size": 90,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 50,
+      "count": 0
+    },
+    {
+      "id": 37,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Кролик",
+      "filter": "Кролик зайчик заяц зайченок",
+      "name": "Stupid Rabbit",
+      "description": "мягкая игрушка кролика",
+      "image_url": "assets/images/bunny/bunny-7.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 38,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Кролик",
+      "filter": "Кролик зайчик заяц зайченок",
+      "name": "Intelligent Rabbit",
+      "description": "мягкая игрушка кролика",
+      "image_url": "assets/images/bunny/bunny-8.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 20,
+          "value": 400
+        },
+        {
+          "size": 40,
+          "value": 800
+        },
+        {
+          "size": 60,
+          "value": 1200
+        }
+      ],
+      "price": 400,
+      "size": 20,
+      "count": 0
+    },
+    {
+      "id": 39,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Кролик",
+      "filter": "Кролик зайчик заяц зайченок",
+      "name": "Empty Rabbit",
+      "description": "мягкая игрушка кролика",
+      "image_url": "assets/images/bunny/bunny-9.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 45,
+          "value": 1200
+        },
+        {
+          "size": 55,
+          "value": 1400
+        },
+        {
+          "size": 75,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 45,
+      "count": 0
+    },
+    {
+      "id": 40,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Кролик",
+      "filter": "Кролик зайчик заяц зайченок",
+      "name": "Crazy Rabbit",
+      "description": "мягкая игрушка кролика",
+      "image_url": "assets/images/bunny/bunny-10.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 41,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Кролик",
+      "filter": "Кролик зайчик заяц зайченок",
+      "name": "Lazy Rabbit",
+      "description": "мягкая игрушка кролика",
+      "image_url": "assets/images/bunny/bunny-11.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 70,
+          "value": 1800
+        },
+        {
+          "size": 80,
+          "value": 2000
+        },
+        {
+          "size": 120,
+          "value": 3000
+        }
+      ],
+      "price": 1800,
+      "size": 70,
+      "count": 0
+    },
+    {
+      "id": 42,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Кролик",
+      "filter": "Кролик зайчик заяц зайченок",
+      "name": "Quick Rabbit",
+      "description": "мягкая игрушка кролика",
+      "image_url": "assets/images/bunny/bunny-12.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 43,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Кролик",
+      "filter": "Кролик зайчик заяц зайченок",
+      "name": "Free Rabbit",
+      "description": "мягкая игрушка кролика",
+      "image_url": "assets/images/bunny/bunny-13.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 35,
+          "value": 1000
+        },
+        {
+          "size": 70,
+          "value": 2000
+        },
+        {
+          "size": 120,
+          "value": 3000
+        }
+      ],
+      "price": 1000,
+      "size": 35,
+      "count": 0
+    },
+    {
+      "id": 44,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Кролик",
+      "filter": "Кролик зайчик заяц зайченок",
+      "name": "Fantastic Rabbit",
+      "description": "мягкая игрушка кролика",
+      "image_url": "assets/images/bunny/bunny-14.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1000
+        },
+        {
+          "size": 60,
+          "value": 1200
+        },
+        {
+          "size": 80,
+          "value": 1400
+        }
+      ],
+      "price": 1000,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 45,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Кролик",
+      "filter": "Кролик зайчик заяц зайченок",
+      "name": "Slow Rabbit",
+      "description": "мягкая игрушка кролика",
+      "image_url": "assets/images/bunny/bunny-15.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 55,
+          "value": 1250
+        },
+        {
+          "size": 65,
+          "value": 1350
+        },
+        {
+          "size": 75,
+          "value": 1450
+        }
+      ],
+      "price": 1250,
+      "size": 55,
+      "count": 0
+    },
+    {
+      "id": 46,
+      "likes": 250,
+      "stars": 3,
+      "filter": "Кошка котик кот котенок котейка",
+      "catalog": "Кошка",
+      "name": "Friendly Cat",
+      "description": "мягкая игрушка кошки",
+      "image_url": "assets/images/cat/cat-1.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1600,
+      "size": 60,
+      "count": 0
+    },
+    {
+      "id": 47,
+      "likes": 324,
+      "stars": 4,
+      "catalog": "Кошка",
+      "filter": "Кошка котик кот котенок котейка",
+      "name": "Sad Cat",
+      "description": "мягкая игрушка кошки",
+      "image_url": "assets/images/cat/cat-2.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Beast cat",
+          "user": "Mery"
+        }
+      ],
+      "prices": [
+        {
+          "size": 30,
+          "value": 1000
+        },
+        {
+          "size": 50,
+          "value": 1300
+        },
+        {
+          "size": 70,
+          "value": 1500
+        }
+      ],
+      "price": 1000,
+      "size": 30,
+      "count": 0
+    },
+    {
+      "id": 48,
+      "likes": 230,
+      "stars": 2,
+      "catalog": "Кошка",
+      "filter": "Кошка котик кот котенок котейка",
+      "name": "Interesting Cat",
+      "description": "мягкая игрушка кошки",
+      "image_url": "assets/images/cat/cat-3.webp",
+      "comments": [
+        {
+          "text": "Strange cat",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 80,
+          "value": 1800
+        },
+        {
+          "size": 120,
+          "value": 2200
+        },
+        {
+          "size": 140,
+          "value": 2500
+        }
+      ],
+      "price": 1800,
+      "size": 80,
+      "count": 0
+    },
+    {
+      "id": 49,
+      "likes": 645,
+      "stars": 5,
+      "catalog": "Кошка",
+      "filter": "Кошка котик кот котенок котейка",
+      "name": "Smile Cat",
+      "description": "мягкая игрушка кошки",
+      "image_url": "assets/images/cat/cat-4.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Beast cat",
+          "user": "Mery"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 50,
+      "likes": 324,
+      "stars": 3,
+      "catalog": "Кошка",
+      "filter": "Кошка котик кот котенок котейка",
+      "name": "Strange Cat",
+      "description": "мягкая игрушка кошки",
+      "image_url": "assets/images/cat/cat-5.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 35,
+          "value": 800
+        },
+        {
+          "size": 60,
+          "value": 1200
+        },
+        {
+          "size": 100,
+          "value": 2500
+        }
+      ],
+      "price": 800,
+      "size": 35,
+      "count": 0
+    },
+    {
+      "id": 51,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Кошка",
+      "filter": "Кошка котик кот котенок котейка",
+      "name": "Mysterious Cat",
+      "description": "мягкая игрушка кошки",
+      "image_url": "assets/images/cat/cat-6.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 50,
+          "value": 1200
+        },
+        {
+          "size": 70,
+          "value": 1600
+        },
+        {
+          "size": 90,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 50,
+      "count": 0
+    },
+    {
+      "id": 52,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Кошка",
+      "filter": "Кошка котик кот котенок котейка",
+      "name": "Stupid Cat",
+      "description": "мягкая игрушка кошки",
+      "image_url": "assets/images/cat/cat-7.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 53,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Кошка",
+      "filter": "Кошка котик кот котенок котейка",
+      "name": "Intelligent Cat",
+      "description": "мягкая игрушка кошки",
+      "image_url": "assets/images/cat/cat-8.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 20,
+          "value": 400
+        },
+        {
+          "size": 40,
+          "value": 800
+        },
+        {
+          "size": 60,
+          "value": 1200
+        }
+      ],
+      "price": 400,
+      "size": 20,
+      "count": 0
+    },
+    {
+      "id": 54,
+      "likes": 250,
+      "stars": 4,
+      "filter": "Кошка котик кот котенок котейка",
+      "catalog": "Кошка",
+      "name": "Empty Cat",
+      "description": "мягкая игрушка кошки",
+      "image_url": "assets/images/cat/cat-9.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 45,
+          "value": 1200
+        },
+        {
+          "size": 55,
+          "value": 1400
+        },
+        {
+          "size": 75,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 45,
+      "count": 0
+    },
+    {
+      "id": 55,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Кошка",
+      "filter": "Кошка котик кот котенок котейка",
+      "name": "Crazy Cat",
+      "description": "мягкая игрушка кошки",
+      "image_url": "assets/images/cat/cat-10.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 56,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Кошка",
+      "filter": "Кошка котик кот котенок котейка",
+      "name": "Lazy Cat",
+      "description": "мягкая игрушка кошки",
+      "image_url": "assets/images/cat/cat-11.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 70,
+          "value": 1800
+        },
+        {
+          "size": 80,
+          "value": 2000
+        },
+        {
+          "size": 120,
+          "value": 3000
+        }
+      ],
+      "price": 1800,
+      "size": 70,
+      "count": 0
+    },
+    {
+      "id": 57,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Кошка",
+      "filter": "Кошка котик кот котенок котейка",
+      "name": "Quick Cat",
+      "description": "мягкая игрушка кошки",
+      "image_url": "assets/images/cat/cat-12.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 58,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Кошка",
+      "filter": "Кошка котик кот котенок котейка",
+      "name": "Free Cat",
+      "description": "мягкая игрушка кошки",
+      "image_url": "assets/images/cat/cat-13.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 35,
+          "value": 1000
+        },
+        {
+          "size": 70,
+          "value": 2000
+        },
+        {
+          "size": 120,
+          "value": 3000
+        }
+      ],
+      "price": 1000,
+      "size": 35,
+      "count": 0
+    },
+    {
+      "id": 59,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Кошка",
+      "filter": "Кошка котик кот котенок котейка",
+      "name": "Fantastic Cat",
+      "description": "мягкая игрушка кошки",
+      "image_url": "assets/images/cat/cat-14.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1000
+        },
+        {
+          "size": 60,
+          "value": 1200
+        },
+        {
+          "size": 80,
+          "value": 1400
+        }
+      ],
+      "price": 1000,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 60,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Кошка",
+      "filter": "Кошка котик кот котенок котейка",
+      "name": "Slow Cat",
+      "description": "мягкая игрушка кошки",
+      "image_url": "assets/images/cat/cat-15.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 55,
+          "value": 1250
+        },
+        {
+          "size": 65,
+          "value": 1350
+        },
+        {
+          "size": 75,
+          "value": 1450
+        }
+      ],
+      "price": 1250,
+      "size": 55,
+      "count": 0
+    },
+    {
+      "id": 61,
+      "likes": 250,
+      "stars": 3,
+      "filter": "Пингвин пингвиненок",
+      "catalog": "Пингвин",
+      "name": "Friendly Penguin",
+      "description": "мягкая игрушка пингвина",
+      "image_url": "assets/images/penguin/penguin-1.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1600,
+      "size": 60,
+      "count": 0
+    },
+    {
+      "id": 62,
+      "likes": 324,
+      "stars": 4,
+      "catalog": "Пингвин",
+      "filter": "Пингвин пингвиненок",
+      "name": "Sad Penguin",
+      "description": "мягкая игрушка пингвина",
+      "image_url": "assets/images/penguin/penguin-2.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Beast penguin",
+          "user": "Mery"
+        }
+      ],
+      "prices": [
+        {
+          "size": 30,
+          "value": 1000
+        },
+        {
+          "size": 50,
+          "value": 1300
+        },
+        {
+          "size": 70,
+          "value": 1500
+        }
+      ],
+      "price": 1000,
+      "size": 30,
+      "count": 0
+    },
+    {
+      "id": 63,
+      "likes": 230,
+      "stars": 2,
+      "catalog": "Пингвин",
+      "filter": "Пингвин пингвиненок",
+      "name": "Interesting Penguin",
+      "description": "мягкая игрушка пингвина",
+      "image_url": "assets/images/penguin/penguin-3.webp",
+      "comments": [
+        {
+          "text": "Strange penguin",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 80,
+          "value": 1800
+        },
+        {
+          "size": 120,
+          "value": 2200
+        },
+        {
+          "size": 140,
+          "value": 2500
+        }
+      ],
+      "price": 1800,
+      "size": 80,
+      "count": 0
+    },
+    {
+      "id": 64,
+      "likes": 645,
+      "stars": 5,
+      "catalog": "Пингвин",
+      "filter": "Пингвин пингвиненок",
+      "name": "Smile Penguin",
+      "description": "мягкая игрушка пингвина",
+      "image_url": "assets/images/penguin/penguin-4.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Beast penguin",
+          "user": "Mery"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 65,
+      "likes": 324,
+      "stars": 3,
+      "catalog": "Пингвин",
+      "filter": "Пингвин пингвиненок",
+      "name": "Strange Penguin",
+      "description": "мягкая игрушка пингвина",
+      "image_url": "assets/images/penguin/penguin-5.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 35,
+          "value": 800
+        },
+        {
+          "size": 60,
+          "value": 1200
+        },
+        {
+          "size": 100,
+          "value": 2500
+        }
+      ],
+      "price": 800,
+      "size": 35,
+      "count": 0
+    },
+    {
+      "id": 66,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Пингвин",
+      "filter": "Пингвин пингвиненок",
+      "name": "Mysterious Penguin",
+      "description": "мягкая игрушка пингвина",
+      "image_url": "assets/images/penguin/penguin-6.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 50,
+          "value": 1200
+        },
+        {
+          "size": 70,
+          "value": 1600
+        },
+        {
+          "size": 90,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 50,
+      "count": 0
+    },
+    {
+      "id": 67,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Пингвин",
+      "filter": "Пингвин пингвиненок",
+      "name": "Stupid Penguin",
+      "description": "мягкая игрушка пингвина",
+      "image_url": "assets/images/penguin/penguin-7.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 68,
+      "likes": 250,
+      "stars": 4,
+      "filter": "Пингвин пингвиненок",
+      "catalog": "Пингвин",
+      "name": "Intelligent Penguin",
+      "description": "мягкая игрушка пингвина",
+      "image_url": "assets/images/penguin/penguin-8.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 20,
+          "value": 400
+        },
+        {
+          "size": 40,
+          "value": 800
+        },
+        {
+          "size": 60,
+          "value": 1200
+        }
+      ],
+      "price": 800,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 69,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Пингвин",
+      "filter": "Пингвин пингвиненок",
+      "name": "Empty Penguin",
+      "description": "мягкая игрушка пингвина",
+      "image_url": "assets/images/penguin/penguin-9.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 45,
+          "value": 1200
+        },
+        {
+          "size": 55,
+          "value": 1400
+        },
+        {
+          "size": 75,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 45,
+      "count": 0
+    },
+    {
+      "id": 70,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Пингвин",
+      "filter": "Пингвин пингвиненок",
+      "name": "Crazy Penguin",
+      "description": "мягкая игрушка пингвина",
+      "image_url": "assets/images/penguin/penguin-10.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 71,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Пингвин",
+      "filter": "Пингвин пингвиненок",
+      "name": "Lazy Penguin",
+      "description": "мягкая игрушка пингвина",
+      "image_url": "assets/images/penguin/penguin-11.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 70,
+          "value": 1800
+        },
+        {
+          "size": 80,
+          "value": 2000
+        },
+        {
+          "size": 120,
+          "value": 3000
+        }
+      ],
+      "price": 1800,
+      "size": 70,
+      "count": 0
+    },
+    {
+      "id": 72,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Пингвин",
+      "filter": "Пингвин пингвиненок",
+      "name": "Quick Penguin",
+      "description": "мягкая игрушка пингвина",
+      "image_url": "assets/images/penguin/penguin-12.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 73,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Пингвин",
+      "filter": "Пингвин пингвиненок",
+      "name": "Free Penguin",
+      "description": "мягкая игрушка пингвина",
+      "image_url": "assets/images/penguin/penguin-13.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 35,
+          "value": 1000
+        },
+        {
+          "size": 70,
+          "value": 2000
+        },
+        {
+          "size": 120,
+          "value": 3000
+        }
+      ],
+      "price": 1000,
+      "size": 35,
+      "count": 0
+    },
+    {
+      "id": 74,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Пингвин",
+      "filter": "Пингвин пингвиненок",
+      "name": "Fantastic Penguin",
+      "description": "мягкая игрушка пингвина",
+      "image_url": "assets/images/penguin/penguin-14.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1000
+        },
+        {
+          "size": 60,
+          "value": 1200
+        },
+        {
+          "size": 80,
+          "value": 1400
+        }
+      ],
+      "price": 1000,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 75,
+      "likes": 250,
+      "stars": 3,
+      "catalog": "Собака",
+      "filter": "Собака пес щенок собачка",
+      "name": "Friendly Dog",
+      "description": "мягкая игрушка собаки",
+      "image_url": "assets/images/dog/dog-1.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 76,
+      "likes": 324,
+      "stars": 4,
+      "catalog": "Собака",
+      "filter": "Собака пес щенок собачка",
+      "name": "Sad Dog",
+      "description": "мягкая игрушка собаки",
+      "image_url": "assets/images/dog/dog-2.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Beast dog",
+          "user": "Mery"
+        }
+      ],
+      "prices": [
+        {
+          "size": 30,
+          "value": 1000
+        },
+        {
+          "size": 50,
+          "value": 1300
+        },
+        {
+          "size": 70,
+          "value": 1500
+        }
+      ],
+      "price": 1000,
+      "size": 30,
+      "count": 0
+    },
+    {
+      "id": 77,
+      "likes": 230,
+      "stars": 2,
+      "catalog": "Собака",
+      "filter": "Собака пес щенок собачка",
+      "name": "Interesting Dog",
+      "description": "мягкая игрушка собаки",
+      "image_url": "assets/images/dog/dog-3.webp",
+      "comments": [
+        {
+          "text": "Strange dog",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 80,
+          "value": 1800
+        },
+        {
+          "size": 120,
+          "value": 2200
+        },
+        {
+          "size": 140,
+          "value": 2500
+        }
+      ],
+      "price": 1800,
+      "size": 80,
+      "count": 0
+    },
+    {
+      "id": 78,
+      "likes": 645,
+      "stars": 5,
+      "catalog": "Собака",
+      "filter": "Собака пес щенок собачка",
+      "name": "Smile Dog",
+      "description": "мягкая игрушка собаки",
+      "image_url": "assets/images/dog/dog-4.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Beast dog",
+          "user": "Mery"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 79,
+      "likes": 324,
+      "stars": 3,
+      "catalog": "Собака",
+      "filter": "Собака пес щенок собачка",
+      "name": "Strange Dog",
+      "description": "мягкая игрушка собаки",
+      "image_url": "assets/images/dog/dog-5.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 35,
+          "value": 800
+        },
+        {
+          "size": 60,
+          "value": 1200
+        },
+        {
+          "size": 100,
+          "value": 2500
+        }
+      ],
+      "price": 800,
+      "size": 35,
+      "count": 0
+    },
+    {
+      "id": 80,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Собака",
+      "filter": "Собака пес щенок собачка",
+      "name": "Mysterious Dog",
+      "description": "мягкая игрушка собаки",
+      "image_url": "assets/images/dog/dog-6.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 50,
+          "value": 1200
+        },
+        {
+          "size": 70,
+          "value": 1600
+        },
+        {
+          "size": 90,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 50,
+      "count": 0
+    },
+    {
+      "id": 81,
+      "likes": 250,
+      "stars": 4,
+      "filter": "Собака пес щенок собачка",
+      "catalog": "Собака",
+      "name": "Stupid Dog",
+      "description": "мягкая игрушка собаки",
+      "image_url": "assets/images/dog/dog-7.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1800,
+      "size": 80,
+      "count": 0
+    },
+    {
+      "id": 82,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Собака",
+      "filter": "Собака пес щенок собачка",
+      "name": "Intelligent Dog",
+      "description": "мягкая игрушка собаки",
+      "image_url": "assets/images/dog/dog-8.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 20,
+          "value": 400
+        },
+        {
+          "size": 40,
+          "value": 800
+        },
+        {
+          "size": 60,
+          "value": 1200
+        }
+      ],
+      "price": 400,
+      "size": 20,
+      "count": 0
+    },
+    {
+      "id": 83,
+      "likes": 250,
+      "stars": 4,
+      "filter": "Собака пес щенок собачка",
+      "catalog": "Собака",
+      "name": "Empty Dog",
+      "description": "мягкая игрушка собаки",
+      "image_url": "assets/images/dog/dog-9.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 45,
+          "value": 1200
+        },
+        {
+          "size": 55,
+          "value": 1400
+        },
+        {
+          "size": 75,
+          "value": 1800
+        }
+      ],
+      "price": 1800,
+      "size": 75,
+      "count": 0
+    },
+    {
+      "id": 84,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Собака",
+      "filter": "Собака пес щенок собачка",
+      "name": "Crazy Dog",
+      "description": "мягкая игрушка собаки",
+      "image_url": "assets/images/dog/dog-10.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 85,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Собака",
+      "filter": "Собака пес щенок собачка",
+      "name": "Lazy Dog",
+      "description": "мягкая игрушка собаки",
+      "image_url": "assets/images/dog/dog-11.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 70,
+          "value": 1800
+        },
+        {
+          "size": 80,
+          "value": 2000
+        },
+        {
+          "size": 120,
+          "value": 3000
+        }
+      ],
+      "price": 1800,
+      "size": 70,
+      "count": 0
+    },
+    {
+      "id": 86,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Собака",
+      "filter": "Собака пес щенок собачка",
+      "name": "Quick Dog",
+      "description": "мягкая игрушка собаки",
+      "image_url": "assets/images/dog/dog-12.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 87,
+      "likes": 250,
+      "stars": 3,
+      "catalog": "Сова",
+      "filter": "Сова совенок совушка",
+      "name": "Friendly Owl",
+      "description": "мягкая игрушка совы",
+      "image_url": "assets/images/owl/owl-1.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 88,
+      "likes": 324,
+      "stars": 4,
+      "catalog": "Сова",
+      "filter": "Сова совенок совушка",
+      "name": "Sad Owl",
+      "description": "мягкая игрушка совы",
+      "image_url": "assets/images/owl/owl-2.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Beast owl",
+          "user": "Mery"
+        }
+      ],
+      "prices": [
+        {
+          "size": 30,
+          "value": 1000
+        },
+        {
+          "size": 50,
+          "value": 1300
+        },
+        {
+          "size": 70,
+          "value": 1500
+        }
+      ],
+      "price": 1000,
+      "size": 30,
+      "count": 0
+    },
+    {
+      "id": 89,
+      "likes": 230,
+      "stars": 2,
+      "catalog": "Сова",
+      "filter": "Сова совенок совушка",
+      "name": "Interesting Owl",
+      "description": "мягкая игрушка совы",
+      "image_url": "assets/images/owl/owl-3.webp",
+      "comments": [
+        {
+          "text": "Strange owl",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 80,
+          "value": 1800
+        },
+        {
+          "size": 120,
+          "value": 2200
+        },
+        {
+          "size": 140,
+          "value": 2500
+        }
+      ],
+      "price": 1800,
+      "size": 80,
+      "count": 0
+    },
+    {
+      "id": 90,
+      "likes": 645,
+      "stars": 5,
+      "catalog": "Сова",
+      "filter": "Сова совенок совушка",
+      "name": "Smile Owl",
+      "description": "мягкая игрушка совы",
+      "image_url": "assets/images/owl/owl-4.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Beast owl",
+          "user": "Mery"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 91,
+      "likes": 324,
+      "stars": 3,
+      "catalog": "Сова",
+      "filter": "Сова совенок совушка",
+      "name": "Strange Owl",
+      "description": "мягкая игрушка совы",
+      "image_url": "assets/images/owl/owl-5.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 35,
+          "value": 800
+        },
+        {
+          "size": 60,
+          "value": 1200
+        },
+        {
+          "size": 100,
+          "value": 2500
+        }
+      ],
+      "price": 800,
+      "size": 35,
+      "count": 0
+    },
+    {
+      "id": 92,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Сова",
+      "filter": "Сова совенок совушка",
+      "name": "Mysterious Owl",
+      "description": "мягкая игрушка совы",
+      "image_url": "assets/images/owl/owl-6.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 50,
+          "value": 1200
+        },
+        {
+          "size": 70,
+          "value": 1600
+        },
+        {
+          "size": 90,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 50,
+      "count": 0
+    },
+    {
+      "id": 93,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Сова",
+      "filter": "Сова совенок совушка",
+      "name": "Stupid Owl",
+      "description": "мягкая игрушка совы",
+      "image_url": "assets/images/owl/owl-7.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 94,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Сова",
+      "filter": "Сова совенок совушка",
+      "name": "Intelligent Owl",
+      "description": "мягкая игрушка совы",
+      "image_url": "assets/images/owl/owl-8.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 20,
+          "value": 400
+        },
+        {
+          "size": 40,
+          "value": 800
+        },
+        {
+          "size": 60,
+          "value": 1200
+        }
+      ],
+      "price": 400,
+      "size": 20,
+      "count": 0
+    },
+    {
+      "id": 95,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Сова",
+      "filter": "Сова совенок совушка",
+      "name": "Empty Owl",
+      "description": "мягкая игрушка совы",
+      "image_url": "assets/images/owl/owl-9.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 45,
+          "value": 1200
+        },
+        {
+          "size": 55,
+          "value": 1400
+        },
+        {
+          "size": 75,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 45,
+      "count": 0
+    },
+    {
+      "id": 96,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Сова",
+      "filter": "Сова совенок совушка",
+      "name": "Crazy Owl",
+      "description": "мягкая игрушка совы",
+      "image_url": "assets/images/owl/owl-10.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 97,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Сова",
+      "filter": "Сова совенок совушка",
+      "name": "Lazy Owl",
+      "description": "мягкая игрушка совы",
+      "image_url": "assets/images/owl/owl-11.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 70,
+          "value": 1800
+        },
+        {
+          "size": 80,
+          "value": 2000
+        },
+        {
+          "size": 120,
+          "value": 3000
+        }
+      ],
+      "price": 1800,
+      "size": 70,
+      "count": 0
+    },
+    {
+      "id": 98,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Сова",
+      "filter": "Сова совенок совушка",
+      "name": "Quick Owl",
+      "description": "мягкая игрушка совы",
+      "image_url": "assets/images/owl/owl-12.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 99,
+      "likes": 250,
+      "stars": 3,
+      "filter": "Ленивец лентяй",
+      "catalog": "Ленивец",
+      "name": "Friendly Sloth",
+      "description": "мягкая игрушка ленивца",
+      "image_url": "assets/images/sloth/sloth-1.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1600,
+      "size": 60,
+      "count": 0
+    },
+    {
+      "id": 100,
+      "likes": 324,
+      "stars": 4,
+      "catalog": "Ленивец",
+      "filter": "Ленивец лентяй",
+      "name": "Sad Sloth",
+      "description": "мягкая игрушка ленивца",
+      "image_url": "assets/images/sloth/sloth-2.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Beast sloth",
+          "user": "Mery"
+        }
+      ],
+      "prices": [
+        {
+          "size": 30,
+          "value": 1000
+        },
+        {
+          "size": 50,
+          "value": 1300
+        },
+        {
+          "size": 70,
+          "value": 1500
+        }
+      ],
+      "price": 1000,
+      "size": 30,
+      "count": 0
+    },
+    {
+      "id": 101,
+      "likes": 230,
+      "stars": 2,
+      "catalog": "Ленивец",
+      "filter": "Ленивец лентяй",
+      "name": "Interesting Sloth",
+      "description": "мягкая игрушка ленивца",
+      "image_url": "assets/images/sloth/sloth-3.webp",
+      "comments": [
+        {
+          "text": "Strange sloth",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 80,
+          "value": 1800
+        },
+        {
+          "size": 120,
+          "value": 2200
+        },
+        {
+          "size": 140,
+          "value": 2500
+        }
+      ],
+      "price": 1800,
+      "size": 80,
+      "count": 0
+    },
+    {
+      "id": 102,
+      "likes": 645,
+      "stars": 5,
+      "filter": "Ленивец лентяй",
+      "catalog": "Ленивец",
+      "name": "Smile Sloth",
+      "description": "мягкая игрушка ленивца",
+      "image_url": "assets/images/sloth/sloth-4.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Beast sloth",
+          "user": "Mery"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1800,
+      "size": 80,
+      "count": 0
+    },
+    {
+      "id": 103,
+      "likes": 324,
+      "stars": 3,
+      "catalog": "Ленивец",
+      "filter": "Ленивец лентяй",
+      "name": "Strange Sloth",
+      "description": "мягкая игрушка ленивца",
+      "image_url": "assets/images/sloth/sloth-5.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 35,
+          "value": 800
+        },
+        {
+          "size": 60,
+          "value": 1200
+        },
+        {
+          "size": 100,
+          "value": 2500
+        }
+      ],
+      "price": 800,
+      "size": 35,
+      "count": 0
+    },
+    {
+      "id": 104,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Ленивец",
+      "filter": "Ленивец лентяй",
+      "name": "Mysterious Sloth",
+      "description": "мягкая игрушка ленивца",
+      "image_url": "assets/images/sloth/sloth-6.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 50,
+          "value": 1200
+        },
+        {
+          "size": 70,
+          "value": 1600
+        },
+        {
+          "size": 90,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 50,
+      "count": 0
+    },
+    {
+      "id": 105,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Ленивец",
+      "filter": "Ленивец лентяй",
+      "name": "Stupid Sloth",
+      "description": "мягкая игрушка ленивца",
+      "image_url": "assets/images/sloth/sloth-7.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 106,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Ленивец",
+      "filter": "Ленивец лентяй",
+      "name": "Intelligent Sloth",
+      "description": "мягкая игрушка ленивца",
+      "image_url": "assets/images/sloth/sloth-8.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 20,
+          "value": 400
+        },
+        {
+          "size": 40,
+          "value": 800
+        },
+        {
+          "size": 60,
+          "value": 1200
+        }
+      ],
+      "price": 400,
+      "size": 20,
+      "count": 0
+    },
+    {
+      "id": 107,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Ленивец",
+      "filter": "Ленивец лентяй",
+      "name": "Empty Sloth",
+      "description": "мягкая игрушка ленивца",
+      "image_url": "assets/images/sloth/sloth-9.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 45,
+          "value": 1200
+        },
+        {
+          "size": 55,
+          "value": 1400
+        },
+        {
+          "size": 75,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 45,
+      "count": 0
+    },
+    {
+      "id": 108,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Ленивец",
+      "filter": "Ленивец лентяй",
+      "name": "Crazy Sloth",
+      "description": "мягкая игрушка ленивца",
+      "image_url": "assets/images/sloth/sloth-10.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 109,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Ленивец",
+      "filter": "Ленивец лентяй",
+      "name": "Lazy Sloth",
+      "description": "мягкая игрушка ленивца",
+      "image_url": "assets/images/sloth/sloth-11.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 70,
+          "value": 1800
+        },
+        {
+          "size": 80,
+          "value": 2000
+        },
+        {
+          "size": 120,
+          "value": 3000
+        }
+      ],
+      "price": 1800,
+      "size": 70,
+      "count": 0
+    },
+    {
+      "id": 110,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Ленивец",
+      "filter": "Ленивец лентяй",
+      "name": "Quick Sloth",
+      "description": "мягкая игрушка ленивца",
+      "image_url": "assets/images/sloth/sloth-12.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 111,
+      "likes": 250,
+      "stars": 3,
+      "filter": "Черепаха черепашка",
+      "catalog": "Черепаха",
+      "name": "Friendly Turtle",
+      "description": "мягкая игрушка черепахи",
+      "image_url": "assets/images/turtle/turtle-1.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1800,
+      "size": 80,
+      "count": 0
+    },
+    {
+      "id": 112,
+      "likes": 324,
+      "stars": 4,
+      "catalog": "Черепаха",
+      "filter": "Черепаха черепашка",
+      "name": "Sad Turtle",
+      "description": "мягкая игрушка черепахи",
+      "image_url": "assets/images/turtle/turtle-2.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Beast turtle",
+          "user": "Mery"
+        }
+      ],
+      "prices": [
+        {
+          "size": 30,
+          "value": 1000
+        },
+        {
+          "size": 50,
+          "value": 1300
+        },
+        {
+          "size": 70,
+          "value": 1500
+        }
+      ],
+      "price": 1000,
+      "size": 30,
+      "count": 0
+    },
+    {
+      "id": 113,
+      "likes": 230,
+      "stars": 2,
+      "filter": "Черепаха черепашка",
+      "catalog": "Черепаха",
+      "name": "Interesting Turtle",
+      "description": "мягкая игрушка черепахи",
+      "image_url": "assets/images/turtle/turtle-3.webp",
+      "comments": [
+        {
+          "text": "Strange turtle",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 80,
+          "value": 1800
+        },
+        {
+          "size": 120,
+          "value": 2200
+        },
+        {
+          "size": 140,
+          "value": 2500
+        }
+      ],
+      "price": 2200,
+      "size": 120,
+      "count": 0
+    },
+    {
+      "id": 114,
+      "likes": 645,
+      "stars": 5,
+      "catalog": "Черепаха",
+      "filter": "Черепаха черепашка",
+      "name": "Smile Turtle",
+      "description": "мягкая игрушка черепахи",
+      "image_url": "assets/images/turtle/turtle-4.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Beast turtle",
+          "user": "Mery"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 115,
+      "likes": 324,
+      "stars": 3,
+      "catalog": "Черепаха",
+      "filter": "Черепаха черепашка",
+      "name": "Strange Turtle",
+      "description": "мягкая игрушка черепахи",
+      "image_url": "assets/images/turtle/turtle-5.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 35,
+          "value": 800
+        },
+        {
+          "size": 60,
+          "value": 1200
+        },
+        {
+          "size": 100,
+          "value": 2500
+        }
+      ],
+      "price": 800,
+      "size": 35,
+      "count": 0
+    },
+    {
+      "id": 116,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Черепаха",
+      "filter": "Черепаха черепашка",
+      "name": "Myster Turtle",
+      "description": "мягкая игрушка черепахи",
+      "image_url": "assets/images/turtle/turtle-6.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 50,
+          "value": 1200
+        },
+        {
+          "size": 70,
+          "value": 1600
+        },
+        {
+          "size": 90,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 50,
+      "count": 0
+    },
+    {
+      "id": 117,
+      "likes": 250,
+      "stars": 4,
+      "filter": "Черепаха черепашка",
+      "catalog": "Черепаха",
+      "name": "Stupid Turtle",
+      "description": "мягкая игрушка черепахи",
+      "image_url": "assets/images/turtle/turtle-7.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 118,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Черепаха",
+      "filter": "Черепаха черепашка",
+      "name": "Intelligent Turtle",
+      "description": "мягкая игрушка черепахи",
+      "image_url": "assets/images/turtle/turtle-8.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 20,
+          "value": 400
+        },
+        {
+          "size": 40,
+          "value": 800
+        },
+        {
+          "size": 60,
+          "value": 1200
+        }
+      ],
+      "price": 400,
+      "size": 20,
+      "count": 0
+    },
+    {
+      "id": 119,
+      "likes": 250,
+      "stars": 4,
+      "filter": "Черепаха черепашка",
+      "catalog": "Черепаха",
+      "name": "Empty Turtle",
+      "description": "мягкая игрушка черепахи",
+      "image_url": "assets/images/turtle/turtle-9.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 45,
+          "value": 1200
+        },
+        {
+          "size": 55,
+          "value": 1400
+        },
+        {
+          "size": 75,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 45,
+      "count": 0
+    },
+    {
+      "id": 120,
+      "likes": 250,
+      "stars": 4,
+      "filter": "Черепаха черепашка",
+      "catalog": "Черепаха",
+      "name": "Crazy Turtle",
+      "description": "мягкая игрушка черепахи",
+      "image_url": "assets/images/turtle/turtle-10.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1600,
+      "size": 60,
+      "count": 0
+    },
+    {
+      "id": 121,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Черепаха",
+      "filter": "Черепаха черепашка",
+      "name": "Lazy Turtle",
+      "description": "мягкая игрушка черепахи",
+      "image_url": "assets/images/turtle/turtle-11.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 70,
+          "value": 1800
+        },
+        {
+          "size": 80,
+          "value": 2000
+        },
+        {
+          "size": 120,
+          "value": 3000
+        }
+      ],
+      "price": 1800,
+      "size": 70,
+      "count": 0
+    },
+    {
+      "id": 122,
+      "likes": 250,
+      "stars": 3,
+      "catalog": "Гусь",
+      "filter": "Гусь гусенок гусиня",
+      "name": "Friendly Goose",
+      "description": "мягкая игрушка гуся",
+      "image_url": "assets/images/goose/goose-1.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 123,
+      "likes": 324,
+      "stars": 4,
+      "catalog": "Гусь",
+      "filter": "Гусь гусенок гусиня",
+      "name": "Sad Goose",
+      "description": "мягкая игрушка гуся",
+      "image_url": "assets/images/goose/goose-2.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Beast turtle",
+          "user": "Mery"
+        }
+      ],
+      "prices": [
+        {
+          "size": 30,
+          "value": 1000
+        },
+        {
+          "size": 50,
+          "value": 1300
+        },
+        {
+          "size": 70,
+          "value": 1500
+        }
+      ],
+      "price": 1000,
+      "size": 30,
+      "count": 0
+    },
+    {
+      "id": 124,
+      "likes": 230,
+      "stars": 2,
+      "catalog": "Гусь",
+      "filter": "Гусь гусенок гусиня",
+      "name": "Interesting Goose",
+      "description": "мягкая игрушка гуся",
+      "image_url": "assets/images/goose/goose-3.webp",
+      "comments": [
+        {
+          "text": "Strange turtle",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 80,
+          "value": 1800
+        },
+        {
+          "size": 120,
+          "value": 2200
+        },
+        {
+          "size": 140,
+          "value": 2500
+        }
+      ],
+      "price": 1800,
+      "size": 80,
+      "count": 0
+    },
+    {
+      "id": 125,
+      "likes": 645,
+      "stars": 5,
+      "filter": "Гусь гусенок гусиня",
+      "catalog": "Гусь",
+      "name": "Smile Goose",
+      "description": "мягкая игрушка гуся",
+      "image_url": "assets/images/goose/goose-4.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Beast turtle",
+          "user": "Mery"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1800,
+      "size": 80,
+      "count": 0
+    },
+    {
+      "id": 126,
+      "likes": 324,
+      "stars": 3,
+      "catalog": "Гусь",
+      "filter": "Гусь гусенок гусиня",
+      "name": "Strange Goose",
+      "description": "мягкая игрушка гуся",
+      "image_url": "assets/images/goose/goose-5.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 35,
+          "value": 800
+        },
+        {
+          "size": 60,
+          "value": 1200
+        },
+        {
+          "size": 100,
+          "value": 2500
+        }
+      ],
+      "price": 800,
+      "size": 35,
+      "count": 0
+    },
+    {
+      "id": 127,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Гусь",
+      "filter": "Гусь гусенок гусиня",
+      "name": "Mysterious Goose",
+      "description": "мягкая игрушка гуся",
+      "image_url": "assets/images/goose/goose-6.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 50,
+          "value": 1200
+        },
+        {
+          "size": 70,
+          "value": 1600
+        },
+        {
+          "size": 90,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 50,
+      "count": 0
+    },
+    {
+      "id": 128,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Гусь",
+      "filter": "Гусь гусенок гусиня",
+      "name": "Stupid Goose",
+      "description": "мягкая игрушка гуся",
+      "image_url": "assets/images/goose/goose-7.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 129,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Гусь",
+      "filter": "Гусь гусенок гусиня",
+      "name": "Intelligent Goose",
+      "description": "мягкая игрушка гуся",
+      "image_url": "assets/images/goose/goose-8.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 20,
+          "value": 400
+        },
+        {
+          "size": 40,
+          "value": 800
+        },
+        {
+          "size": 60,
+          "value": 1200
+        }
+      ],
+      "price": 400,
+      "size": 20,
+      "count": 0
+    },
+    {
+      "id": 130,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Гусь",
+      "filter": "Гусь гусенок гусиня",
+      "name": "Empty Goose",
+      "description": "мягкая игрушка гуся",
+      "image_url": "assets/images/goose/goose-9.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 45,
+          "value": 1200
+        },
+        {
+          "size": 55,
+          "value": 1400
+        },
+        {
+          "size": 75,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 45,
+      "count": 0
+    },
+    {
+      "id": 131,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Гусь",
+      "filter": "Гусь гусенок гусиня",
+      "name": "Crazy Goose",
+      "description": "мягкая игрушка гуся",
+      "image_url": "assets/images/goose/goose-10.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 132,
+      "likes": 250,
+      "stars": 3,
+      "catalog": "Свинья",
+      "filter": "Свинья поросенок хрюшка",
+      "name": "Friendly Pig",
+      "description": "мягкая игрушка свиньи",
+      "image_url": "assets/images/pig/pig-1.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 133,
+      "likes": 324,
+      "stars": 4,
+      "catalog": "Свинья",
+      "filter": "Свинья поросенок",
+      "name": "Sad Pig",
+      "description": "мягкая игрушка свиньи",
+      "image_url": "assets/images/pig/pig-2.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Beast turtle",
+          "user": "Mery"
+        }
+      ],
+      "prices": [
+        {
+          "size": 30,
+          "value": 1000
+        },
+        {
+          "size": 50,
+          "value": 1300
+        },
+        {
+          "size": 70,
+          "value": 1500
+        }
+      ],
+      "price": 1000,
+      "size": 30,
+      "count": 0
+    },
+    {
+      "id": 134,
+      "likes": 230,
+      "stars": 2,
+      "catalog": "Свинья",
+      "filter": "Свинья поросенок",
+      "name": "Interesting Pig",
+      "description": "мягкая игрушка свиньи",
+      "image_url": "assets/images/pig/pig-3.webp",
+      "comments": [
+        {
+          "text": "Strange turtle",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 80,
+          "value": 1800
+        },
+        {
+          "size": 120,
+          "value": 2200
+        },
+        {
+          "size": 140,
+          "value": 2500
+        }
+      ],
+      "price": 1800,
+      "size": 80,
+      "count": 0
+    },
+    {
+      "id": 135,
+      "likes": 645,
+      "stars": 5,
+      "catalog": "Свинья",
+      "filter": "Свинья поросенок",
+      "name": "Smile Pig",
+      "description": "мягкая игрушка свиньи",
+      "image_url": "assets/images/pig/pig-4.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Beast turtle",
+          "user": "Mery"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 136,
+      "likes": 324,
+      "stars": 3,
+      "filter": "Свинья поросенок",
+      "catalog": "Свинья",
+      "name": "Strange Pig",
+      "description": "мягкая игрушка свиньи",
+      "image_url": "assets/images/pig/pig-5.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 35,
+          "value": 800
+        },
+        {
+          "size": 60,
+          "value": 1200
+        },
+        {
+          "size": 100,
+          "value": 2500
+        }
+      ],
+      "price": 1200,
+      "size": 60,
+      "count": 0
+    },
+    {
+      "id": 137,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Свинья",
+      "filter": "Свинья поросенок",
+      "name": "Mysterious Pig",
+      "description": "мягкая игрушка свиньи",
+      "image_url": "assets/images/pig/pig-6.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 50,
+          "value": 1200
+        },
+        {
+          "size": 70,
+          "value": 1600
+        },
+        {
+          "size": 90,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 50,
+      "count": 0
+    },
+    {
+      "id": 138,
+      "likes": 250,
+      "stars": 4,
+      "filter": "Свинья поросенок",
+      "catalog": "Свинья",
+      "name": "Stupid Pig",
+      "description": "мягкая игрушка свиньи",
+      "image_url": "assets/images/pig/pig-7.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1800,
+      "size": 80,
+      "count": 0
+    },
+    {
+      "id": 139,
+      "likes": 250,
+      "stars": 4,
+      "filter": "Свинья поросенок",
+      "catalog": "Свинья",
+      "name": "Intelligent Pig",
+      "description": "мягкая игрушка свиньи",
+      "image_url": "assets/images/pig/pig-8.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 20,
+          "value": 400
+        },
+        {
+          "size": 40,
+          "value": 800
+        },
+        {
+          "size": 60,
+          "value": 1200
+        }
+      ],
+      "price": 800,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 140,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Свинья",
+      "filter": "Свинья поросенок",
+      "name": "Empty Pig",
+      "description": "мягкая игрушка свиньи",
+      "image_url": "assets/images/pig/pig-9.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 45,
+          "value": 1200
+        },
+        {
+          "size": 55,
+          "value": 1400
+        },
+        {
+          "size": 75,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 45,
+      "count": 0
+    },
+    {
+      "id": 141,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Свинья",
+      "filter": "Свинья поросенок",
+      "name": "Crazy Pig",
+      "description": "мягкая игрушка свиньи",
+      "image_url": "assets/images/pig/pig-10.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 142,
+      "likes": 250,
+      "stars": 3,
+      "catalog": "Белка",
+      "filter": "Белка бельчонок",
+      "name": "Friendly Squirrel",
+      "description": "мягкая игрушка белки",
+      "image_url": "assets/images/squirrel/squirrel-1.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 143,
+      "likes": 324,
+      "stars": 4,
+      "catalog": "Белка",
+      "filter": "Белка бельчонок",
+      "name": "Sad Squirrel",
+      "description": "мягкая игрушка белки",
+      "image_url": "assets/images/squirrel/squirrel-2.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Beast turtle",
+          "user": "Mery"
+        }
+      ],
+      "prices": [
+        {
+          "size": 30,
+          "value": 1000
+        },
+        {
+          "size": 50,
+          "value": 1300
+        },
+        {
+          "size": 70,
+          "value": 1500
+        }
+      ],
+      "price": 1000,
+      "size": 30,
+      "count": 0
+    },
+    {
+      "id": 144,
+      "likes": 230,
+      "stars": 2,
+      "catalog": "Белка",
+      "filter": "Белка бельчонок",
+      "name": "Interesting Squirrel",
+      "description": "мягкая игрушка белки",
+      "image_url": "assets/images/squirrel/squirrel-3.webp",
+      "comments": [
+        {
+          "text": "Strange turtle",
+          "user": "Liz"
+        }
+      ],
+      "prices": [
+        {
+          "size": 80,
+          "value": 1800
+        },
+        {
+          "size": 120,
+          "value": 2200
+        },
+        {
+          "size": 140,
+          "value": 2500
+        }
+      ],
+      "price": 1800,
+      "size": 80,
+      "count": 0
+    },
+    {
+      "id": 145,
+      "likes": 645,
+      "stars": 5,
+      "catalog": "Белка",
+      "filter": "Белка бельчонок",
+      "name": "Smile Squirrel",
+      "description": "мягкая игрушка белки",
+      "image_url": "assets/images/squirrel/squirrel-4.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Beast turtle",
+          "user": "Mery"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    },
+    {
+      "id": 146,
+      "likes": 324,
+      "stars": 3,
+      "catalog": "Белка",
+      "filter": "Белка бельчонок",
+      "name": "Strange Squirrel",
+      "description": "мягкая игрушка белки",
+      "image_url": "assets/images/squirrel/squirrel-5.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 35,
+          "value": 800
+        },
+        {
+          "size": 60,
+          "value": 1200
+        },
+        {
+          "size": 100,
+          "value": 2500
+        }
+      ],
+      "price": 800,
+      "size": 35,
+      "count": 0
+    },
+    {
+      "id": 147,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Белка",
+      "filter": "Белка бельчонок",
+      "name": "Mysterious Squirrel",
+      "description": "мягкая игрушка белки",
+      "image_url": "assets/images/squirrel/squirrel-6.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 50,
+          "value": 1200
+        },
+        {
+          "size": 70,
+          "value": 1600
+        },
+        {
+          "size": 90,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 50,
+      "count": 0
+    },
+    {
+      "id": 148,
+      "likes": 250,
+      "stars": 4,
+      "filter": "Белка бельчонок",
+      "catalog": "Белка",
+      "name": "Stupid Squirrel",
+      "description": "мягкая игрушка белки",
+      "image_url": "assets/images/squirrel/squirrel-7.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1800,
+      "size": 80,
+      "count": 0
+    },
+    {
+      "id": 149,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Белка",
+      "filter": "Белка бельчонок",
+      "name": "Intelligent Squirrel",
+      "description": "мягкая игрушка белки",
+      "image_url": "assets/images/squirrel/squirrel-8.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 20,
+          "value": 400
+        },
+        {
+          "size": 40,
+          "value": 800
+        },
+        {
+          "size": 60,
+          "value": 1200
+        }
+      ],
+      "price": 400,
+      "size": 20,
+      "count": 0
+    },
+    {
+      "id": 150,
+      "likes": 250,
+      "stars": 4,
+      "filter": "Белка бельчонок",
+      "catalog": "Белка",
+      "name": "Empty Squirrel",
+      "description": "мягкая игрушка белки",
+      "image_url": "assets/images/squirrel/squirrel-9.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 45,
+          "value": 1200
+        },
+        {
+          "size": 55,
+          "value": 1400
+        },
+        {
+          "size": 75,
+          "value": 1800
+        }
+      ],
+      "price": 1400,
+      "size": 55,
+      "count": 0
+    },
+    {
+      "id": 151,
+      "likes": 250,
+      "stars": 4,
+      "catalog": "Белка",
+      "filter": "Белка бельчонок",
+      "name": "Crazy Squirrel",
+      "description": "мягкая игрушка белки",
+      "image_url": "assets/images/squirrel/squirrel-10.webp",
+      "comments": [
+        {
+          "text": "I love him!",
+          "user": "Liz"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        },
+        {
+          "text": "My best friend",
+          "user": "Doly"
+        },
+        {
+          "text": "Mi mi mi mi!",
+          "user": "Sem"
+        }
+      ],
+      "prices": [
+        {
+          "size": 40,
+          "value": 1200
+        },
+        {
+          "size": 60,
+          "value": 1600
+        },
+        {
+          "size": 80,
+          "value": 1800
+        }
+      ],
+      "price": 1200,
+      "size": 40,
+      "count": 0
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "user",
+      "email": "user@mail.ru",
+      "password": "password"
+    },
+    {
+      "id": "2",
+      "name": "root",
+      "email": "root@mail.ru",
+      "password": "password"
+    }
+  ]
+}

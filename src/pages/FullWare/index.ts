@@ -1,0 +1,1 @@
+export { FullWareAsync as FullWare } from './ui/FullWare.lazy';

@@ -1,0 +1,1 @@
+export { SceletonItem } from './ui/SceletonItem';

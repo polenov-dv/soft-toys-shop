@@ -1,0 +1,159 @@
+.item {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding-top: 40px;
+	gap: 0 10px;
+	width: 80%;
+	flex-wrap: wrap;
+
+	@media(max-width: 1000px) {
+		width: 100%;
+	}
+}
+
+.ware_img {
+	width: 80px;
+	height: 80px;
+
+	@media(max-width: 768px) {
+		width: 60px;
+		height: 60px;
+	}
+}
+
+.info_ware {
+	display: flex;
+	align-items: center;
+	gap: 0 10px;
+	width: 50%;
+
+	@media(max-width: 768px) {
+		font-size: 16px;
+	}
+
+	@media(max-width: 500px) {
+		width: 100%;
+		padding-bottom: 10px;
+	}
+
+}
+
+.count {
+	display: flex;
+	align-items: center;
+	gap: 0 10px;
+	width: 20%;
+
+	@media(max-width: 768px) {
+		gap: 0 3px;
+	}
+}
+
+.btn {
+	display: inline-block;
+	background-color: #ffffff;
+	border-radius: 30px;
+	padding: 10px 20px;
+	text-align: center;
+	transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+	border: 1px solid #fe5f1e;
+	cursor: pointer;
+
+	&:hover {
+		background-color: #fe5f1e;
+
+		svg {
+			path {
+				fill: #ffffff;
+			}
+		}
+	}
+
+	&:active {
+		background-color: darken(#fe5f1e, 8%);
+	}
+
+}
+
+.circle {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 32px;
+	height: 32px;
+	min-width: 32px;
+	padding: 0;
+	border-width: 2px;
+
+	@media(max-width: 768px) {
+		width: 20px;
+		height: 20px;
+		min-width: 20px;
+	}
+}
+
+.minus {
+	svg {
+		path:first-of-type {
+			display: none;
+		}
+	}
+
+	&:disabled {
+		opacity: 0.4;
+		border-color: #787878;
+
+		&:active {
+			transform: none;
+		}
+
+		&:hover {
+			background-color: transparent;
+
+			svg path {
+				fill: #787878;
+			}
+		}
+
+		svg path {
+			fill: #787878;
+		}
+	}
+}
+
+.remove {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+
+	svg {
+		transform: rotate(45deg);
+
+		path {
+			fill: darken($color: #f6f6f6, $amount: 15);
+		}
+	}
+}
+
+.btn_remove {
+	svg {
+		width: 10px;
+		height: 10px;
+		position: relative;
+	}
+
+	border-color: darken($color: #f6f6f6, $amount: 10);
+
+	&:hover,
+	&:active {
+		border-color: darken($color: #f6f6f6, $amount: 80);
+		background-color: darken($color: #f6f6f6, $amount: 80);
+	}
+}
+
+.price {
+	@media(max-width: 768px) {
+		font-size: 16px;
+	}
+}
